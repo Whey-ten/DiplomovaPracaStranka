@@ -7,8 +7,12 @@ V zložke resources sa nachádzajú všetky aktuálne textové súbory.
 Práca je venovaná rôznym typom stromov útokov a spôsobe overenia bezpečnosti voči takýmto útokom.
 
 ## Aktuálne ciele
-* Spojazdenie vykreslovania stromov utokov
-  * Porovnanie c3.js a Cytospace.js
+* **Backend**:
+  * Osvojenie technologii node.js, mongodb
+  * kniznice c3.js, Cytospace.js
+* **Frontend**:
+  * Osvojenie technologii angular
+  * [JavaScript Tree Layout](https://www.codeproject.com/Articles/16192/Graphic-JavaScript-Tree-with-Layout)
 * Integrovanie a nasadenie ako web aplikacie
 * Napojenie na databazu
 * Pridanie algoritmov
@@ -25,7 +29,7 @@ Práca je venovaná rôznym typom stromov útokov a spôsobe overenia bezpečno
 * Oboznamenie sa s najdenymi technologiami
 * ~~Spojazdenie aplikacie v C#~~
 * Najdenie alternativneho jazyka na vyvoj
-* Zoznamenie sa s technologiami node.js
+* Porovnať jazyky Java a Python na vyvoj daneho softveru
 
   
 ## Dôležité odkazy
